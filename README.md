@@ -1,2 +1,2 @@
 # qsort
-Experiment with parallel programming in Java
+Parallel programming assignment 1 in Java
